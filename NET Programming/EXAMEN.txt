@@ -1,0 +1,40 @@
+zie labo voorbeeld examen: p128
+
+database prul kunnen
+
+labo 10		//open boek
+theorie 10	//gesloten boek
+
+beide mondeling toelichten
+
+2-3 labos gecombineerd
+//////////////////////////////////////////////////////////
+	fn	vn	gb
+	A	A	1
+	A	A	3
+	A	A	5
+	A	B	1
+	A	B	7
+	B	A	1
+	B	A	2
+
+select * from TABLE where 
+	((fn=@fn) AND (vn=@vn) AND (gb>@gb)) OR
+	((fn=@fn) AND (vn>@vn)) OR
+	((fn>@fn))
+ORDER BY fn, vn, gb
+
+welk statement nodig om omhoog te scrollen 
+
+
+/////////////////////
+SQL
+
+geen GUI/Windows/blah elementen, SQL heeft dit niet!!!!!!!!!!!!!!
+
+
+MSSQL: function result copy to db
+
+insert into Kwadraten (getal, kwadraat)
+SELECT * FROM MaakKwadraten(100)
+go

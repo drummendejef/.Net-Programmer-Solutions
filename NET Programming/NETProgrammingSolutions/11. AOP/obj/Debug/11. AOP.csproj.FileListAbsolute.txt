@@ -1,0 +1,17 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\bin\Debug\_11.AOP.exe.config
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\bin\Debug\_11.AOP.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\bin\Debug\_11.AOP.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\bin\Debug\PostSharp.dll
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\bin\Debug\PostSharp.xml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\bin\Debug\_11.AOP.pssym
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\11. AOP.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\_11.AOP_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\_11.AOP.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\_11.AOP.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\11. AOP.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\_11.AOP.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\_11.AOP.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP\obj\Debug\_11.AOP.exe.postsharp

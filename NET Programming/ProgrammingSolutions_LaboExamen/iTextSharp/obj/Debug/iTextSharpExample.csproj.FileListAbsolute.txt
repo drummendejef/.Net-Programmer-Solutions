@@ -1,0 +1,15 @@
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\bin\Debug\iTextSharpExample.exe.config
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\bin\Debug\iTextSharpExample.exe
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\bin\Debug\iTextSharpExample.pdb
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\bin\Debug\itextsharp.dll
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\bin\Debug\itextsharp.xml
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\iTextSharpExample_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\iTextSharpExample.g.resources
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\iTextSharpExample.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\iTextSharpExample.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\iTextSharpExample.exe
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\iTextSharpExample.pdb
+g:\Documents\Jaar 3\NET Programming\ProgrammingSolutions_LaboExamen\iTextSharp\obj\Debug\iTextSharpExample.csprojResolveAssemblyReference.cache

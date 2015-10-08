@@ -1,0 +1,12 @@
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\bin\Debug\IsPlugin.exe.config
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\bin\Debug\IsPlugin.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\bin\Debug\IsPlugin.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\IsPlugin_MarkupCompile.cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\IsPlugin.g.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\IsPlugin.Properties.Resources.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\IsPlugin.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\IsPlugin.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\IsPlugin.pdb

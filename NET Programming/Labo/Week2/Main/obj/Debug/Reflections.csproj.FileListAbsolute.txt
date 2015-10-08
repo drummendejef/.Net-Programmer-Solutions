@@ -1,0 +1,13 @@
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\bin\Debug\Reflections.exe.config
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\bin\Debug\Reflections.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\bin\Debug\Reflections.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\Reflections.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\Reflections_MarkupCompile.cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\Reflections.g.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\Reflections.Properties.Resources.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\Reflections.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\Reflections.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\Reflections\obj\Debug\Reflections.pdb

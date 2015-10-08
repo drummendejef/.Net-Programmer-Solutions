@@ -1,0 +1,15 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\bin\Debug\_06.Templated_Controls___States.exe.config
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\bin\Debug\_06.Templated_Controls___States.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\bin\Debug\_06.Templated_Controls___States.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\_06.Templated_Controls___States_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\_06.Templated_Controls___States_MarkupCompile.lref
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\Themes\Generic.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\_06.Templated_Controls___States.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\_06.Templated_Controls___States.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\06. Templated Controls - States.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\_06.Templated_Controls___States.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - States\obj\Debug\_06.Templated_Controls___States.pdb

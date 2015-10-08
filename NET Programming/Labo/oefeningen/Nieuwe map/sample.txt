@@ -1,0 +1,8 @@
+using System;
+using System.Windows.Forms;
+
+class CScript {
+	public void Main() {
+		MessageBox.Show("I'm being loaded dynamicly!");
+	}
+}

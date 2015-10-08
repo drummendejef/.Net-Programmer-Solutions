@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:labo3_oef1" x:Class="labo3_oef1.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <local:Functie HorizontalAlignment="Left" Height="267" VerticalAlignment="Top" Width="497" Margin="10,10,0,0" x:Name="cnvFunctie"/>
+        <TextBox HorizontalAlignment="Left" Height="21" Margin="20,282,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="113" Name="txtFunctie" RenderTransformOrigin="0.664,0.524"/>
+        <Button Content="Draw" HorizontalAlignment="Left" Height="21" Margin="162,282,0,0" VerticalAlignment="Top" Width="70" Name="btnDraw" Click="btnDraw_Click"/>
+    </Grid>
+</Window>

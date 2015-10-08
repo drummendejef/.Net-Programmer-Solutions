@@ -1,0 +1,15 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\bin\Debug\_02.Reflection___B.Person_Program.exe.config
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\bin\Debug\_02.Reflection___B.Person_Program.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\bin\Debug\_02.Reflection___B.Person_Program.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\bin\Debug\_02.Reflection___A.Custom_Attributes.dll
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\bin\Debug\_02.Reflection___A.Custom_Attributes.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\02. Reflection - B. Person Program.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\_02.Reflection___B.Person_Program_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\_02.Reflection___B.Person_Program.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\_02.Reflection___B.Person_Program.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\02. Reflection - B. Person Program.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\_02.Reflection___B.Person_Program.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - B. Person Program\obj\Debug\_02.Reflection___B.Person_Program.pdb

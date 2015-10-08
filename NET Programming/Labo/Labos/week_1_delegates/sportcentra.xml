@@ -1,0 +1,20 @@
+<Sportcentra version="1.0" timestamp="1412589874">
+<Sportcentra long="3.68082174850063" lat="51.0670195837711" distance="0" id="kml_1" fid="0" naam="Bourgoyen" straat="Driepikkelstraat" nr="30" pstcd="9030" gem="Mariakerke" type="Sporthal"/>
+<Sportcentra long="3.76872261824132" lat="51.0376096402329" distance="0" id="kml_2" fid="1" naam="Driebeek" straat="Driebeekstraat" nr="22" pstcd="9050" gem="Gentbrugge" type="Sporthal"/>
+<Sportcentra long="3.71043023671827" lat="51.003214547577" distance="0" id="kml_3" fid="2" naam="Hekers" straat="Ter Linden" nr="29" pstcd="9052" gem="Zwijnaarde" type="Sporthal"/>
+<Sportcentra long="3.70358920030471" lat="51.0886307623523" distance="0" id="kml_4" fid="3" naam="Neptunus" straat="Botestraat" nr="98" pstcd="9032" gem="Wondelgem" type="Sporthal"/>
+<Sportcentra long="3.76042703928017" lat="51.0588091751543" distance="0" id="kml_5" fid="4" naam="Rozebroeken" straat="Rozebroekslag" nr="24" pstcd="9040" gem="Sint-Amandsberg" type="Sporthal"/>
+<Sportcentra long="3.72455206251269" lat="51.0633435462836" distance="0" id="kml_6" fid="5" naam="Tolhuis" straat="Tolhuislaan" nr="77" pstcd="9000" gem="Gent" type="Sporthal"/>
+<Sportcentra long="3.76454363850854" lat="51.092941250632" distance="0" id="kml_7" fid="6" naam="Wolfput" straat="Wolfputstraat" nr="92" pstcd="9041" gem="Oostakker" type="Sporthal"/>
+<Sportcentra long="3.7047176321211" lat="51.0866480085378" distance="0" id="kml_8" fid="7" naam="Neptunus (openlucht)" straat="Botestraat" nr="100" pstcd="9032" gem="Wondelgem" type="Zwembaden"/>
+<Sportcentra long="3.69182586563794" lat="51.0590584965092" distance="0" id="kml_9" fid="8" naam="Rooigem" straat="Peerstraat" nr="1" pstcd="9000" gem="Gent" type="Zwembaden"/>
+<Sportcentra long="3.76088287372297" lat="51.0600364026014" distance="0" id="kml_10" fid="9" naam="Rozebroeken" straat="Rozebroekslag" nr="28" pstcd="9040" gem="Sint-Amandsberg" type="Zwembaden"/>
+<Sportcentra long="3.72898437347536" lat="51.0364721869652" distance="0" id="kml_11" fid="10" naam="Strop" straat="Stropstraat" nr="31" pstcd="9000" gem="Gent" type="Zwembaden"/>
+<Sportcentra long="3.73389151294044" lat="51.053551237585" distance="0" id="kml_12" fid="11" naam="Van Eyck" straat="Veermanplein" nr="1" pstcd="9000" gem="Gent" type="Zwembaden"/>
+<Sportcentra long="3.71539242420018" lat="51.0759912713685" distance="0" id="kml_13" fid="12" naam="Jan Yoens" straat="Dracenastraat" nr="8" pstcd="9000" gem="Gent" type="Buitensporten"/>
+<Sportcentra long="3.68214560460972" lat="51.0470593176624" distance="0" id="kml_14" fid="13" naam="Tennishal" straat="Zuiderlaan" nr="10" pstcd="9000" gem="Gent" type="Buitensporten"/>
+<Sportcentra long="3.64170838297324" lat="51.0457007618734" distance="0" id="kml_15" fid="14" naam="Keiskant" straat="Keiskantstraat" nr="3" pstcd="9031" gem="Drongen" type="Sporthal"/>
+<Sportcentra long="3.76665267371456" lat="51.0837203408005" distance="0" id="kml_16" fid="15" naam="Rosas" straat="Sint-Jozefstraat" nr="7" pstcd="9041" gem="Oostakker" type="Zwembaden"/>
+<Sportcentra long="3.68806627865641" lat="51.0444176980839" distance="0" id="kml_17" fid="16" naam="Blaarmeersen" straat="Zuiderlaan" nr="5" pstcd="9000" gem="Gent" type="Buitensporten"/>
+<Sportcentra long="3.68046305985085" lat="51.0463595342927" distance="0" id="kml_18" fid="17" naam="Camping" straat="Zuiderlaan" nr="12" pstcd="9000" gem="Gent" type="Buitensporten"/>
+</Sportcentra>

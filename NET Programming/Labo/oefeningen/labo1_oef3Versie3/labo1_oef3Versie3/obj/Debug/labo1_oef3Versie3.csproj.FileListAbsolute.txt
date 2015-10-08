@@ -1,0 +1,34 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\labo1_oef3Versie3.exe.config
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.csprojResolveAssemblyReference.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\App.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3_MarkupCompile.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\MainWindow.baml
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\MainWindow.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.g.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.Properties.Resources.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.csproj.GenerateResource.Cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3_MarkupCompile.lref
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\labo1_oef3Versie3.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\labo1_oef3Versie3.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\CustomAttribute.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\CustomAttribute.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\labo1_oef3Versie3.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.exe
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\labo1_oef3Versie3.exe
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\labo1_oef3Versie3.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\CustomAttribute.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\bin\Debug\CustomAttribute.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3_MarkupCompile.lref
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.g.resources
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo1_oef3Versie3\labo1_oef3Versie3\obj\Debug\labo1_oef3Versie3.csproj.GenerateResource.Cache

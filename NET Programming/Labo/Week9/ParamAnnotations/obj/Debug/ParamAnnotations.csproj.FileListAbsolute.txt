@@ -1,0 +1,16 @@
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\bin\Debug\ParamAnnotations.exe.config
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\ParamAnnotations_MarkupCompile.cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\ParamAnnotations.g.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\ParamAnnotations.Properties.Resources.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\ParamAnnotations.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\bin\Debug\ParamAnnotations.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\bin\Debug\ParamAnnotations.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\ParamAnnotations.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\ParamAnnotations.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\bin\Debug\PostSharp.dll
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\bin\Debug\PostSharp.xml
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\bin\Debug\ParamAnnotations.pssym
+g:\Documents\Jaar 3\.NET Programming\Labo\Week9\ParamAnnotations\obj\Debug\ParamAnnotations.exe.postsharp

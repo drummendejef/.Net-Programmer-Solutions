@@ -1,0 +1,11 @@
+templated controls
+
+wpf omgeving: gebruik voor visualisatie los te koppelen van project
+(scheiding logica / design)
+
+xaml code later te kunnen wijzigen
+
+part_ = 
+
+koppeling tussen template & logica = onbestaand
+	> field voorzien in logica voor elke field in template

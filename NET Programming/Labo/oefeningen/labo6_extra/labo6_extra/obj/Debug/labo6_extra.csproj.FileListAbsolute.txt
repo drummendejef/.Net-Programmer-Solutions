@@ -1,0 +1,26 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\bin\Debug\labo6_extra.exe.config
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\bin\Debug\labo6_extra.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\bin\Debug\labo6_extra.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.csprojResolveAssemblyReference.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\MainWindow.baml
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\MainWindow.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\App.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra_MarkupCompile.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.g.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.Properties.Resources.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.csproj.GenerateResource.Cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\bin\Debug\labo6_extra.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.exe
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\bin\Debug\labo6_extra.exe
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\bin\Debug\labo6_extra.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.g.resources
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\labo6_extra\obj\Debug\labo6_extra.csproj.GenerateResource.Cache

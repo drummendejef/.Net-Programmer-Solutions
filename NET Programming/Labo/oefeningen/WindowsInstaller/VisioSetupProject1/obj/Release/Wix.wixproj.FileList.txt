@@ -1,0 +1,6 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\WindowsInstaller\VisioSetupProject1\bin\Release\VisioSetupProject1.msi
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\WindowsInstaller\VisioSetupProject1\bin\Release\VisioSetupProject1.wixpdb
+obj\Release\Product.wixobj
+obj\Release\Wix.wixproj.BindContentsFileListnull.txt
+obj\Release\Wix.wixproj.BindOutputsFileListnull.txt
+obj\Release\Wix.wixproj.BindBuiltOutputsFileListnull.txt

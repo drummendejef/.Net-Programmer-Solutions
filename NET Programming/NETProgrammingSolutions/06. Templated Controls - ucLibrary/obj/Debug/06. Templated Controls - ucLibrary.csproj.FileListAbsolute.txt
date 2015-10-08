@@ -1,0 +1,8 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - ucLibrary\obj\Debug\UserControl.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - ucLibrary\obj\Debug\UserControl.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - ucLibrary\obj\Debug\_06.Templated_Controls___ucLibrary_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - ucLibrary\obj\Debug\_06.Templated_Controls___ucLibrary.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - ucLibrary\obj\Debug\_06.Templated_Controls___ucLibrary.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - ucLibrary\obj\Debug\06. Templated Controls - ucLibrary.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - ucLibrary\obj\Debug\MyUserControl.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\06. Templated Controls - ucLibrary\obj\Debug\MyUserControl.g.cs

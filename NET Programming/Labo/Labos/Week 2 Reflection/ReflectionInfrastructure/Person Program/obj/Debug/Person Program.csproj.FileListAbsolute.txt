@@ -1,0 +1,30 @@
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\Person Program.exe.config
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\Person Program.exe
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\Person Program.pdb
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.csprojResolveAssemblyReference.cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\MainWindow.baml
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\MainWindow.g.cs
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\App.g.cs
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program_MarkupCompile.cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.g.resources
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person_Program.Properties.Resources.resources
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.csproj.GenerateResource.Cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.exe
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.pdb
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\CustomAttributes.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\CustomAttributes.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\Person Program.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\Person Program.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\Person Program.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\CustomAttributes.dll
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\bin\Debug\CustomAttributes.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.g.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person_Program.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Person Program\obj\Debug\Person Program.pdb

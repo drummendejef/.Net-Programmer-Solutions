@@ -1,0 +1,145 @@
+//Viewer
+        /*private void BuildNodes(XmlDocument xDoc)
+        {
+            XmlNode xNode;
+            XmlNodeList xNodeList;
+            //TreeNode node = new TreeNode();
+
+            foreach (XmlNode child in xDoc.DocumentElement)
+            {
+                xNodeList = child.ChildNodes;
+                if (child.HasChildNodes)
+                {
+                    for (int x = 0; x <= xNodeList.Count - 1; x++)
+                    {
+                        xNode = child.ChildNodes[x];
+                        node.addToTempItems(xNode.Name);
+                    }
+                }
+            }
+        }*/
+
+        private void BuildNodes(XmlDocument xDoc)
+        {
+            //XmlNode xNode;
+            XmlNodeList xNodeList;
+            //TreeNode node = new TreeNode();
+
+            foreach (XmlNode child in xDoc.DocumentElement)
+            {
+                xNodeList = child.ChildNodes;
+                node.addToTempItems(xDoc, child, xNodeList);
+                /*if (child.HasChildNodes)
+                {
+                    for (int x = 0; x <= xNodeList.Count - 1; x++)
+                    {
+                        xNode = child.ChildNodes[x];
+                        node.addToTempItems(child, xNode);
+                    }
+                }*/
+            }
+            node.addToViewItems(xDoc);
+        }
+
+        /*private void addElements(XmlDocument xDoc)
+        {
+            foreach (XmlNode no in xDoc.DocumentElement)
+            {
+                TreeNode.elements.Add(no);
+            }
+        }*/
+
+//item
+        //public static List<XmlNode> elements = new List<XmlNode>();
+
+        /*public void addToTempItems(string node)
+        {
+            TreeNode treeNode = new TreeNode();
+            treeNode.Header = node;
+            treeNode.Name = node;
+            //treeNode.ItemsSource = new TreeNode[] { "Pants", "Shirt", "Hat", "Socks" };
+            tempItems.Add(treeNode);
+        }*/
+
+ /*public void addToViewItems()
+        {
+            TreeNode treeNode = new TreeNode();
+            treeNode.Header = tempItems[0].Header;
+            treeNode.Name = tempItems[0].Name;
+            string[] source = new string[tempItems.Count-1];
+            for (int i = 1; i < tempItems.Count(); i++)
+            {
+                source[i-1] = tempItems[i].Name;
+            }
+            treeNode.ItemsSource = source;
+            viewItems.Add(treeNode);
+        }*/
+        /*public void addToViewItems()
+        {
+            List<TreeNode> subNode = new List<TreeNode>();
+            for (int i = 0; i < tempItems.Count(); i++)
+            {
+                for (int i2 = 0; i2 < elements.Count(); i2++)
+                {
+                    TreeNode treeNode = new TreeNode();
+                    if (tempItems[i].Name.ToString() == elements[i2].Name.ToString()) 
+                    {
+                        treeNode.Header = tempItems[i].name;
+                    }
+                    subNode.Add(treeNode);
+                }
+            }
+        }*/
+
+
+        /*public void berekenSubNodes(XmlNode element, XmlNodeList nodeList)
+        {
+            List<TreeNode> nodeListTemp = new List<TreeNode>();
+            for (int i = 0; i < nodeList.Count;i++)
+            {
+                TreeNode node = new TreeNode(xDoc);
+                node.Header = nodeList[i].Name;
+                XmlNodeList innerNodeList = nodeList[i].ChildNodes;
+                for (int i2 = 0; i2 < innerNodeList.Count; i2++)
+                {
+                    string value = innerNodeList[i2].Name;
+                }
+                berekenKleur(node);
+                nodeListTemp.Add(node);
+            }
+            TreeNode treeNode = new TreeNode(xDoc);
+            treeNode.Header = element.Name;
+            treeNode.ItemsSource = nodeListTemp;
+            treeNode.IsExpanded = true;
+            berekenKleur(treeNode);
+            tempItems.Add(treeNode);
+        }*/
+
+        /*public TreeNode berekenKleur(TreeNode node)
+        {
+            if (node.Header.ToString() == _xDoc.DocumentElement.Name)
+            {
+                node.Foreground = Brushes.Blue;
+                return node;
+            }
+            foreach (XmlNode child in _xDoc.DocumentElement)
+            {
+                if (node.Header.ToString() == child.Name)
+                {
+                    node.Foreground = Brushes.Red;
+                    return node;
+                }
+            }
+            foreach (XmlNode child in _xDoc.DocumentElement)
+            {
+                foreach (XmlNode child2 in child.ChildNodes)
+                {
+                    if (node.Header.ToString() == child2.Name)
+                    {
+                        node.Foreground = Brushes.Green;
+                        return node;
+                    }
+                }
+            }
+            return node;
+        }*/

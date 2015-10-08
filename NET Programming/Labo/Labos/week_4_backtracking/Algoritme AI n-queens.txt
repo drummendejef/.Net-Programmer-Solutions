@@ -1,0 +1,17 @@
+private bool zoekOplossing(int n, bool[,] bord, int huidigeNiveau) //n = dimentie bord // n = aantal queens
+{ //bord, reference type = accumulerende parameter
+	
+	if(huidigeNiveau >= n)
+		return true;
+	
+	for(int kol=0; kol < N; kol++)	
+	{
+		bord[huidigeNiveau,kol] = true;
+		
+		if(geenProbleemGeintroduceerd(huidig, kol, bord))
+			if(zoekOplossing(n, bord, huidigeNiveau))
+				return true; //oplossing gevonden
+		bord[huidigeNiveau, kol] = false;
+	}
+	return false;
+}

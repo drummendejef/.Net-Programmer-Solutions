@@ -1,0 +1,11 @@
+custom control toevoegen wpf
+edit template > current template
++ naast validationstates
++ naast visualgroup
+
+generic probleem
+save all
+bulden en save all
+
+in window app
+window style op none

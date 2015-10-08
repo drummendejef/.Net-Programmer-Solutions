@@ -1,0 +1,4 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - A. CustomAttributes\bin\Debug\_02.Reflection___A.Custom_Attributes.dll
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - A. CustomAttributes\bin\Debug\_02.Reflection___A.Custom_Attributes.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - A. CustomAttributes\obj\Debug\_02.Reflection___A.Custom_Attributes.dll
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - A. CustomAttributes\obj\Debug\_02.Reflection___A.Custom_Attributes.pdb

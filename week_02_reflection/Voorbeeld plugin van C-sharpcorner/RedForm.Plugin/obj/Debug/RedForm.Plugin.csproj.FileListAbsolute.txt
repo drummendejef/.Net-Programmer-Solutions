@@ -1,0 +1,7 @@
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\RedForm.Plugin\bin\Debug\RedForm.Plugin.dll
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\RedForm.Plugin\bin\Debug\RedForm.Plugin.pdb
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\RedForm.Plugin\bin\Debug\Plugin.Interface.dll
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\RedForm.Plugin\bin\Debug\Plugin.Interface.pdb
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\RedForm.Plugin\obj\Debug\RedForm.Plugin.csprojResolveAssemblyReference.cache
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\RedForm.Plugin\obj\Debug\RedForm.Plugin.dll
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\RedForm.Plugin\obj\Debug\RedForm.Plugin.pdb

@@ -1,0 +1,24 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\bin\Debug\Universal.exe.config
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\MainWindow.baml
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\MainWindow.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\App.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\Universal_MarkupCompile.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\Universal.g.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\Universal.Properties.Resources.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\Universal.csproj.GenerateResource.Cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\bin\Debug\Universal.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\bin\Debug\Universal.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\Universal.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\Universal.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\Universal_MarkupCompile.lref
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo6_extra\Universal\obj\Debug\Universal.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\Universal\bin\Debug\Universal.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\Universal\obj\Debug\Universal.exe
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\Universal\obj\Debug\Universal.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\Universal\obj\Debug\Universal.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\Universal\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\Universal\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\Universal\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\Universal\obj\Debug\Universal_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo6_extra\Universal\obj\Debug\Universal_MarkupCompile.lref

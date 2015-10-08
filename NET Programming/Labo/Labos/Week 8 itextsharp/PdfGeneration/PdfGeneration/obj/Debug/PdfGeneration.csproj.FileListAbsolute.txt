@@ -1,0 +1,42 @@
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\PdfGeneration.exe.config
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.csprojResolveAssemblyReference.cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\MainWindow.baml
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\MainWindow.g.cs
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\App.g.cs
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration_MarkupCompile.cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.g.resources
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.Properties.Resources.resources
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.csproj.GenerateResource.Cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\PdfGeneration.exe
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\PdfGeneration.pdb
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\itextsharp.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.exe
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.pdb
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\PdfGeneration.exe.config
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.exe
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.pdb
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\PdfGeneration.exe
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\PdfGeneration.pdb
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\itextsharp.dll
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.csprojResolveAssemblyReference.cache
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\MainWindow.baml
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\MainWindow.g.cs
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\App.g.cs
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration_MarkupCompile.cache
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.g.resources
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.Properties.Resources.resources
+C:\Users\Joeri\Desktop\Labos PS\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\PdfGeneration.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\PdfGeneration.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\PdfGeneration.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\bin\Debug\itextsharp.dll
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.g.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 8 itextsharp\PdfGeneration\PdfGeneration\obj\Debug\PdfGeneration.csproj.GenerateResource.Cache

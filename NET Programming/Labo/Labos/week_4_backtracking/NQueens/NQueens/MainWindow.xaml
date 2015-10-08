@@ -1,0 +1,12 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:NQueens" x:Class="NQueens.MainWindow"
+        Title="MainWindow" Height="526.091" Width="525.243">
+    <Grid Margin="0,0,2,16">
+
+        <local:Bord x:Name="bordContentControl" HorizontalAlignment="Left" Margin="55,68,0,0" VerticalAlignment="Top" Height="401" Width="402"/>
+        <TextBox x:Name="txtAantalQuee" HorizontalAlignment="Left" Height="23" Margin="187,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txtAantalQuee_TextChanged" Text="4"/>
+
+    </Grid>
+</Window>

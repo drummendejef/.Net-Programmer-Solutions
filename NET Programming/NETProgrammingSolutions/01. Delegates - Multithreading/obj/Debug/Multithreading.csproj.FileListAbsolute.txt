@@ -1,0 +1,15 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\bin\Debug\Multithreading.exe.config
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\bin\Debug\Multithreading.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\bin\Debug\Multithreading.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\Multithreading.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\Multithreading_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\Multithreading.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\Multithreading.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\Multithreading.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\Multithreading.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\Multithreading.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Multithreading\obj\Debug\Multithreading_MarkupCompile.lref

@@ -1,0 +1,100 @@
+﻿<Window x:Class="RadioButtonGroup.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:RadioButtonGroup"
+        xmlns:e="http://schemas.microsoft.com/expression/2010/interactivity"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition />
+            <RowDefinition Height="30" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <!-- DEPENDENCY PROPERTY -->
+        <Label Grid.Column="0" Grid.Row="0">Dependency property</Label>
+        <StackPanel Grid.Column="0" Grid.Row="1">
+            <RadioButton Content="noedelsoep" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" local:RadioButtonGroupDP.InGroup="string" />
+
+            <RadioButton Content="wortelsoep" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" local:RadioButtonGroupDP.InGroup="string" />
+
+            <RadioButton Content="11" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" local:RadioButtonGroupDP.InGroup="number" />
+
+            <RadioButton Content="true" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" local:RadioButtonGroupDP.InGroup="bool" />
+
+            <Button Content="Button" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" Width="75" local:RadioButtonGroupDP.InGroup="2" />
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1">
+            <RadioButton Content="532" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" local:RadioButtonGroupDP.InGroup="number" />
+
+            <RadioButton Content="6584" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" local:RadioButtonGroupDP.InGroup="number" />
+
+            <RadioButton Content="slasoep" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" local:RadioButtonGroupDP.InGroup="string" />
+
+            <RadioButton Content="false" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" local:RadioButtonGroupDP.InGroup="bool" />
+        </StackPanel>
+
+        <!-- BEHAVIOR -->
+        <Label Grid.Column="0" Grid.Row="2">Behavior</Label>
+        <StackPanel Grid.Column="0" Grid.Row="3">
+            <!--<Button Content="Button" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+                <e:Interaction.Behaviors>
+                    <local:RadioButtonGroupBehavior InGroup="text" />
+                </e:Interaction.Behaviors>
+            </Button>-->
+            <RadioButton Content="noedelsoep" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+                <e:Interaction.Behaviors>
+                    <local:RadioButtonGroupBehavior InGroup="text" />
+                </e:Interaction.Behaviors>
+            </RadioButton>
+
+            <RadioButton Content="wortelsoep" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+                <e:Interaction.Behaviors>
+                    <local:RadioButtonGroupBehavior InGroup="text" />
+                </e:Interaction.Behaviors>
+            </RadioButton>
+
+            <RadioButton Content="11" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+                <e:Interaction.Behaviors>
+                    <local:RadioButtonGroupBehavior InGroup="number" />
+                </e:Interaction.Behaviors>
+            </RadioButton>
+
+            <RadioButton Content="true" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+                <e:Interaction.Behaviors>
+                    <local:RadioButtonGroupBehavior InGroup="bool" />
+                </e:Interaction.Behaviors>
+            </RadioButton>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="3">
+            <RadioButton Content="532" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+                <e:Interaction.Behaviors>
+                    <local:RadioButtonGroupBehavior InGroup="number" />
+                </e:Interaction.Behaviors>
+            </RadioButton>
+
+            <RadioButton Content="6584" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+                <e:Interaction.Behaviors>
+                    <local:RadioButtonGroupBehavior InGroup="number" />
+                </e:Interaction.Behaviors>
+            </RadioButton>
+
+            <RadioButton Content="slasoep" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+                <e:Interaction.Behaviors>
+                    <local:RadioButtonGroupBehavior InGroup="text" />
+                </e:Interaction.Behaviors>
+            </RadioButton>
+
+            <RadioButton Content="false" HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top">
+                <e:Interaction.Behaviors>
+                    <local:RadioButtonGroupBehavior InGroup="bool" />
+                </e:Interaction.Behaviors>
+            </RadioButton>
+        </StackPanel>
+    </Grid>
+</Window>

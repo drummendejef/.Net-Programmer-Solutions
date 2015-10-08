@@ -1,0 +1,5 @@
+g:\Documents\Jaar 3\.NET Programming\Labo\Week10\DemoDLL\bin\Debug\DemoDLL.dll
+g:\Documents\Jaar 3\.NET Programming\Labo\Week10\DemoDLL\bin\Debug\DemoDLL.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Week10\DemoDLL\obj\Debug\DemoDLL.dll
+g:\Documents\Jaar 3\.NET Programming\Labo\Week10\DemoDLL\obj\Debug\DemoDLL.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Week10\DemoDLL\obj\Debug\DemoDLL.csprojResolveAssemblyReference.cache

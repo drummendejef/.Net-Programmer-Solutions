@@ -1,0 +1,51 @@
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\XMLViewer.exe.config
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\MainWindow.baml
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\MainWindow.g.cs
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\App.g.cs
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer_MarkupCompile.cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.g.resources
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.Properties.Resources.resources
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.csproj.GenerateResource.Cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\XMLViewer.exe
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\XMLViewer.pdb
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.exe
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.pdb
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.csprojResolveAssemblyReference.cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer_MarkupCompile.lref
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\CustomAttributes.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\CustomAttributes.pdb
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\XMLViewer.exe.config
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.exe
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.pdb
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\XMLViewer.exe
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\XMLViewer.pdb
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\CustomAttributes.dll
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\CustomAttributes.pdb
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.csprojResolveAssemblyReference.cache
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\MainWindow.g.cs
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\App.g.cs
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer_MarkupCompile.cache
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer_MarkupCompile.lref
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\MainWindow.baml
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.g.resources
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.Properties.Resources.resources
+g:\Desktop\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\XMLViewer.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\XMLViewer.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\XMLViewer.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\CustomAttributes.dll
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\bin\Debug\CustomAttributes.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer_MarkupCompile.lref
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.g.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 1 delegates\XMLViewer\XMLViewer\obj\Debug\XMLViewer.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:XMLViewer" x:Class="XMLViewer.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtFilePath" HorizontalAlignment="Left" Height="23" Margin="35,40,0,0" TextWrapping="NoWrap" Text="" VerticalAlignment="Top" Width="362" MaxLines="1"/>
+        <Button x:Name="btnOpenFileDialog" Content="Zoek XML" HorizontalAlignment="Left" Margin="402,43,0,0" VerticalAlignment="Top" Width="75" Click="btnOpenFileDialog_Click"/>
+
+        <local:XmlView x:Name="xmlViewer" HorizontalAlignment="Left" Height="233" Margin="35,76,0,0" VerticalAlignment="Top" Width="442"/>
+        <Button x:Name="btnPlumbCode" Content="Plumb code" Margin="402,18,40,0" VerticalAlignment="Top" Click="btnPlumbCode_Click"/>
+
+    </Grid>
+</Window>

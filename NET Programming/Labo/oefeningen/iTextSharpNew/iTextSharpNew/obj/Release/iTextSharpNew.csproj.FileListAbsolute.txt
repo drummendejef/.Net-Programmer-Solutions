@@ -1,0 +1,15 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\bin\Release\iTextSharpNew.exe.config
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\bin\Release\iTextSharpNew.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\bin\Release\iTextSharpNew.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\bin\Release\itextsharp.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\bin\Release\itextsharp.xml
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\iTextSharpNew.csprojResolveAssemblyReference.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\MainWindow.baml
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\MainWindow.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\App.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\iTextSharpNew_MarkupCompile.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\iTextSharpNew.g.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\iTextSharpNew.Properties.Resources.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\iTextSharpNew.csproj.GenerateResource.Cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\iTextSharpNew.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharpNew\iTextSharpNew\obj\Release\iTextSharpNew.pdb

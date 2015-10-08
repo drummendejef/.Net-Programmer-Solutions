@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReisBestemmingen>
+  <land naam="Afghanistan" europa="nee">
+    <verblijfplaats ID="land1">
+      <plaatsNaam>Kaboel</plaatsNaam>
+      <maxHotelVergoeding>45</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land2">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>43</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Albania" europa="ja">
+    <verblijfplaats ID="land3">
+      <plaatsNaam>Tirana</plaatsNaam>
+      <maxHotelVergoeding>120</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land4">
+      <plaatsNaam>Overig</plaatsNaam>
+      <maxHotelVergoeding>23</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Algerije" europa="nee">
+    <verblijfplaats ID="land5">
+      <plaatsNaam>Algiers</plaatsNaam>
+      <maxHotelVergoeding>172</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land6">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>60</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Amerikaans_Samoa" europa="nee">
+    <verblijfplaats ID="land7">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>88</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Angola" europa="nee">
+    <verblijfplaats ID="land8">
+      <plaatsNaam>Luanda</plaatsNaam>
+      <maxHotelVergoeding>142</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land9">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>166</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Anguilla" europa="nee">
+    <verblijfplaats ID="land10">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>116</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land11">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>91</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Argentinie" europa="nee">
+    <verblijfplaats ID="land12">
+      <plaatsNaam>Buenos Aires</plaatsNaam>
+      <maxHotelVergoeding>153</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land13">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>128</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Armenie" europa="nee">
+    <verblijfplaats ID="land14">
+      <plaatsNaam>Jerevan</plaatsNaam>
+      <maxHotelVergoeding>84</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land15">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>40</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Aruba" europa="nee">
+    <verblijfplaats ID="land16">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>178</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Australie" europa="nee">
+    <verblijfplaats ID="land17">
+      <plaatsNaam>Melbourne</plaatsNaam>
+      <maxHotelVergoeding>86</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land18">
+      <plaatsNaam>Canberra</plaatsNaam>
+      <maxHotelVergoeding>86</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land19">
+      <plaatsNaam>Sydney</plaatsNaam>
+      <maxHotelVergoeding>86</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land20">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>63</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Azerbajdzan" europa="nee">
+    <verblijfplaats ID="land21">
+      <plaatsNaam>Bakoe</plaatsNaam>
+      <maxHotelVergoeding>136</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land22">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>39</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Bahamas" europa="nee">
+    <verblijfplaats ID="land23">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>139</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Bahrein" europa="nee">
+    <verblijfplaats ID="land24">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>125</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Bangladesh" europa="nee">
+    <verblijfplaats ID="land25">
+      <plaatsNaam>Dhaka</plaatsNaam>
+      <maxHotelVergoeding>119</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land26">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>73</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Barbados" europa="nee">
+    <verblijfplaats ID="land27">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>138</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Barbuda" europa="nee">
+    <verblijfplaats ID="land28">
+      <plaatsNaam>Antiqua en Barbuda</plaatsNaam>
+      <maxHotelVergoeding>41</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Belarus" europa="ja">
+    <verblijfplaats ID="land29">
+      <plaatsNaam>Minsk</plaatsNaam>
+      <maxHotelVergoeding>84</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land30">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>34</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Belgium" europa="ja">
+    <verblijfplaats ID="land31">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>126</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Belize" europa="nee">
+    <verblijfplaats ID="land32">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>101</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Benin" europa="nee">
+    <verblijfplaats ID="land33">
+      <plaatsNaam>Cotonou</plaatsNaam>
+      <maxHotelVergoeding>62</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land34">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>34</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Bermuda" europa="nee">
+    <verblijfplaats ID="land35">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>135</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Bhutan" europa="nee">
+    <verblijfplaats ID="land36">
+      <plaatsNaam>Thimpu</plaatsNaam>
+      <maxHotelVergoeding>30</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land37">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>27</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Bolivia" europa="nee">
+    <verblijfplaats ID="land38">
+      <plaatsNaam>La Paz</plaatsNaam>
+      <maxHotelVergoeding>121</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land39">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>86</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Bosnia-Hercegovina" europa="ja">
+    <verblijfplaats ID="land40">
+      <plaatsNaam>Sarajevo</plaatsNaam>
+      <maxHotelVergoeding>115</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land41">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>73</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Botswana" europa="nee">
+    <verblijfplaats ID="land42">
+      <plaatsNaam>Gaborone</plaatsNaam>
+      <maxHotelVergoeding>70</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land43">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>172</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Brazilie" europa="nee">
+    <verblijfplaats ID="land44">
+      <plaatsNaam>Brasilia</plaatsNaam>
+      <maxHotelVergoeding>75</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land45">
+      <plaatsNaam>Rio de Janeiro</plaatsNaam>
+      <maxHotelVergoeding>127</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land46">
+      <plaatsNaam>Sao Paulo</plaatsNaam>
+      <maxHotelVergoeding>76</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land47">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>77</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Brunei" europa="nee">
+    <verblijfplaats ID="land48">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>98</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Bulgarije" europa="ja">
+    <verblijfplaats ID="land49">
+      <plaatsNaam>Sofia</plaatsNaam>
+      <maxHotelVergoeding>125</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land50">
+      <plaatsNaam>Varna</plaatsNaam>
+      <maxHotelVergoeding>94</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land51">
+      <plaatsNaam>Bansko</plaatsNaam>
+      <maxHotelVergoeding>55</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land52">
+      <plaatsNaam>Bourgas</plaatsNaam>
+      <maxHotelVergoeding>83</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land53">
+      <plaatsNaam>Plovdiv</plaatsNaam>
+      <maxHotelVergoeding>67</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land54">
+      <plaatsNaam>Russe</plaatsNaam>
+      <maxHotelVergoeding>55</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land55">
+      <plaatsNaam>Shoumen</plaatsNaam>
+      <maxHotelVergoeding>67</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land56">
+      <plaatsNaam>Stara Zagora</plaatsNaam>
+      <maxHotelVergoeding>67</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land57">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>36</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Burundi" europa="nee">
+    <verblijfplaats ID="land58">
+      <plaatsNaam>Bujumbura</plaatsNaam>
+      <maxHotelVergoeding>121</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land59">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>5</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Cambodja" europa="nee">
+    <verblijfplaats ID="land60">
+      <plaatsNaam>Phnom-Penh</plaatsNaam>
+      <maxHotelVergoeding>97</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land61">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>50</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Canada" europa="nee">
+    <verblijfplaats ID="land62">
+      <plaatsNaam>Ottawa</plaatsNaam>
+      <maxHotelVergoeding>82</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land63">
+      <plaatsNaam>Calgary</plaatsNaam>
+      <maxHotelVergoeding>62</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land64">
+      <plaatsNaam>Montreal</plaatsNaam>
+      <maxHotelVergoeding>103</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land65">
+      <plaatsNaam>Quebec City</plaatsNaam>
+      <maxHotelVergoeding>68</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land66">
+      <plaatsNaam>Toronto</plaatsNaam>
+      <maxHotelVergoeding>111</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land67">
+      <plaatsNaam>Vancouver</plaatsNaam>
+      <maxHotelVergoeding>96</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land68">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>60</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Canarische_Eilanden" europa="nee">
+    <verblijfplaats ID="land69">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>74</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Caymaneilanden" europa="nee">
+    <verblijfplaats ID="land70">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>178</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Centraal_Afrikaanse_Republiek" europa="nee">
+    <verblijfplaats ID="land71">
+      <plaatsNaam>Bangui</plaatsNaam>
+      <maxHotelVergoeding>64</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land72">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>24</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Chili" europa="nee">
+    <verblijfplaats ID="land73">
+      <plaatsNaam>Santiago</plaatsNaam>
+      <maxHotelVergoeding>140</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land74">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>179</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="China" europa="nee">
+    <verblijfplaats ID="land75">
+      <plaatsNaam>Peking</plaatsNaam>
+      <maxHotelVergoeding>64</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land76">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>104</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Colombia" europa="nee">
+    <verblijfplaats ID="land77">
+      <plaatsNaam>Bogot�</plaatsNaam>
+      <maxHotelVergoeding>71</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land78">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>91</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Comoren" europa="nee">
+    <verblijfplaats ID="land79">
+      <plaatsNaam>Moroni</plaatsNaam>
+      <maxHotelVergoeding>81</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land80">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>45</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Cookeilanden" europa="nee">
+    <verblijfplaats ID="land81">
+      <plaatsNaam>Rarotonga</plaatsNaam>
+      <maxHotelVergoeding>128</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land82">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>112</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Costa_Rica" europa="nee">
+    <verblijfplaats ID="land83">
+      <plaatsNaam>San Jos�</plaatsNaam>
+      <maxHotelVergoeding>90</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land84">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>72</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Croatia" europa="ja">
+    <verblijfplaats ID="land85">
+      <plaatsNaam>Zagreb</plaatsNaam>
+      <maxHotelVergoeding>88</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land86">
+      <plaatsNaam>Split</plaatsNaam>
+      <maxHotelVergoeding>71</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land87">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>58</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Cuba" europa="nee">
+    <verblijfplaats ID="land88">
+      <plaatsNaam>Havanna</plaatsNaam>
+      <maxHotelVergoeding>119</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land89">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>92</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land90">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>62</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Cyprus" europa="ja">
+    <verblijfplaats ID="land91">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>62</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Denemarken" europa="ja">
+    <verblijfplaats ID="land92">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>131</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Dominicaanse_Rep" europa="nee">
+    <verblijfplaats ID="land93">
+      <plaatsNaam>Santo Domingo</plaatsNaam>
+      <maxHotelVergoeding>121</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land94">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>72</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Duitsland" europa="ja">
+    <verblijfplaats ID="land95">
+      <plaatsNaam>Berlijn</plaatsNaam>
+      <maxHotelVergoeding>117</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land96">
+      <plaatsNaam>Bonn</plaatsNaam>
+      <maxHotelVergoeding>101</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land97">
+      <plaatsNaam>Frankfurt</plaatsNaam>
+      <maxHotelVergoeding>101</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land98">
+      <plaatsNaam>Hamburg</plaatsNaam>
+      <maxHotelVergoeding>117</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land99">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>83</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Ecuador" europa="nee">
+    <verblijfplaats ID="land100">
+      <plaatsNaam>Quito</plaatsNaam>
+      <maxHotelVergoeding>101</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land101">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>104</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Egypte" europa="nee">
+    <verblijfplaats ID="land102">
+      <plaatsNaam>Ca�ro</plaatsNaam>
+      <maxHotelVergoeding>101</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land103">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>79</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="El_Salvador" europa="nee">
+    <verblijfplaats ID="land104">
+      <plaatsNaam>San Salvador</plaatsNaam>
+      <maxHotelVergoeding>105</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land105">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>45</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Equatoriaal_Guinea" europa="nee">
+    <verblijfplaats ID="land106">
+      <plaatsNaam>Malabo</plaatsNaam>
+      <maxHotelVergoeding>51</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land107">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>42</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Eritrea" europa="nee">
+    <verblijfplaats ID="land108">
+      <plaatsNaam>Asmara</plaatsNaam>
+      <maxHotelVergoeding>126</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land109">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>27</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Estland" europa="ja">
+    <verblijfplaats ID="land110">
+      <plaatsNaam>Talinn</plaatsNaam>
+      <maxHotelVergoeding>77</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land111">
+      <plaatsNaam>Tartu</plaatsNaam>
+      <maxHotelVergoeding>56</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land112">
+      <plaatsNaam>Parnu</plaatsNaam>
+      <maxHotelVergoeding>52</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land113">
+      <plaatsNaam>Overig</plaatsNaam>
+      <maxHotelVergoeding>40</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Fiji" europa="nee">
+    <verblijfplaats ID="land114">
+      <plaatsNaam>Suva</plaatsNaam>
+      <maxHotelVergoeding>40</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land115">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>48</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Filipijnen" europa="nee">
+    <verblijfplaats ID="land116">
+      <plaatsNaam>Manila</plaatsNaam>
+      <maxHotelVergoeding>91</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land117">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>81</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Finland" europa="ja">
+    <verblijfplaats ID="land118">
+      <plaatsNaam>Helsinki</plaatsNaam>
+      <maxHotelVergoeding>154</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land119">
+      <plaatsNaam>Overig</plaatsNaam>
+      <maxHotelVergoeding>112</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Frankrijk" europa="ja">
+    <verblijfplaats ID="land120">
+      <plaatsNaam>Parijs</plaatsNaam>
+      <maxHotelVergoeding>103</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land121">
+      <plaatsNaam>Overig</plaatsNaam>
+      <maxHotelVergoeding>96</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Frans_Guyana" europa="nee">
+    <verblijfplaats ID="land122">
+      <plaatsNaam>Cayenne</plaatsNaam>
+      <maxHotelVergoeding>70</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land123">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>43</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Frans_Polynesie" europa="nee">
+    <verblijfplaats ID="land124">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>95</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Gabon" europa="nee">
+    <verblijfplaats ID="land125">
+      <plaatsNaam>Libreville</plaatsNaam>
+      <maxHotelVergoeding>68</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land126">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>54</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Gambia" europa="nee">
+    <verblijfplaats ID="land127">
+      <plaatsNaam>Banjul</plaatsNaam>
+      <maxHotelVergoeding>62</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land128">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>28</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Ghana" europa="nee">
+    <verblijfplaats ID="land129">
+      <plaatsNaam>Accra</plaatsNaam>
+      <maxHotelVergoeding>124</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land130">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>96</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Gibraltar" europa="nee">
+    <verblijfplaats ID="land131">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>62</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Grenada" europa="nee">
+    <verblijfplaats ID="land132">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>181</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Griekenland" europa="ja">
+    <verblijfplaats ID="land133">
+      <plaatsNaam>Athene</plaatsNaam>
+      <maxHotelVergoeding>126</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land134">
+      <plaatsNaam>Overig</plaatsNaam>
+      <maxHotelVergoeding>71</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Groenland" europa="ja">
+    <verblijfplaats ID="land135">
+      <plaatsNaam>Overig</plaatsNaam>
+      <maxHotelVergoeding>111</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land136">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>139</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Guadelope" europa="nee">
+    <verblijfplaats ID="land137">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>69</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Guam" europa="nee">
+    <verblijfplaats ID="land138">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>86</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Guatemala" europa="nee">
+    <verblijfplaats ID="land139">
+      <plaatsNaam>Guatemala stad</plaatsNaam>
+      <maxHotelVergoeding>92</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land140">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>97</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Guinee-Bissau" europa="nee">
+    <verblijfplaats ID="land141">
+      <plaatsNaam>Conakry</plaatsNaam>
+      <maxHotelVergoeding>106</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land142">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>19</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Guyana" europa="nee">
+    <verblijfplaats ID="land143">
+      <plaatsNaam>Georgetown</plaatsNaam>
+      <maxHotelVergoeding>97</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land144">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>49</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Honduras" europa="nee">
+    <verblijfplaats ID="land145">
+      <plaatsNaam>Tegucigalpa</plaatsNaam>
+      <maxHotelVergoeding>144</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land146">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>122</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Hong_Kong" europa="nee">
+    <verblijfplaats ID="land147">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>145</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Hongarije" europa="ja">
+    <verblijfplaats ID="land148">
+      <plaatsNaam>Overig</plaatsNaam>
+      <maxHotelVergoeding>106</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Ierland" europa="ja">
+    <verblijfplaats ID="land149">
+      <plaatsNaam>Overig</plaatsNaam>
+      <maxHotelVergoeding>100</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Ijsland" europa="ja">
+    <verblijfplaats ID="land150">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>123</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="India" europa="nee">
+    <verblijfplaats ID="land151">
+      <plaatsNaam>New Delhi</plaatsNaam>
+      <maxHotelVergoeding>129</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land152">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>155</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Irak" europa="nee">
+    <verblijfplaats ID="land153">
+      <plaatsNaam>Bagdad</plaatsNaam>
+      <maxHotelVergoeding>52</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land154">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>41</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Iran" europa="nee">
+    <verblijfplaats ID="land155">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>120</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Israel" europa="nee">
+    <verblijfplaats ID="land156">
+      <plaatsNaam>Tel Aviv</plaatsNaam>
+      <maxHotelVergoeding>178</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land157">
+      <plaatsNaam>Haifa</plaatsNaam>
+      <maxHotelVergoeding>198</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land158">
+      <plaatsNaam>Jeruzalem</plaatsNaam>
+      <maxHotelVergoeding>131</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land159">
+      <plaatsNaam>Tiberias</plaatsNaam>
+      <maxHotelVergoeding>113</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land160">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>45</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Italy" europa="ja">
+    <verblijfplaats ID="land161">
+      <plaatsNaam>Rome</plaatsNaam>
+      <maxHotelVergoeding>130</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land162">
+      <plaatsNaam>Brindisi</plaatsNaam>
+      <maxHotelVergoeding>62</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land163">
+      <plaatsNaam>Florence</plaatsNaam>
+      <maxHotelVergoeding>103</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land164">
+      <plaatsNaam>Milaan,  Porto Ercole</plaatsNaam>
+      <maxHotelVergoeding>105</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land165">
+      <plaatsNaam>Turijn</plaatsNaam>
+      <maxHotelVergoeding>87</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land166">
+      <plaatsNaam>Venetie</plaatsNaam>
+      <maxHotelVergoeding>125</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land167">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>100</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Ivoorkust" europa="nee">
+    <verblijfplaats ID="land168">
+      <plaatsNaam>Abidjan</plaatsNaam>
+      <maxHotelVergoeding>117</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land169">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>52</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Jamaica" europa="nee">
+    <verblijfplaats ID="land170">
+      <plaatsNaam>Kingston</plaatsNaam>
+      <maxHotelVergoeding>94</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land171">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>92</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Japan" europa="nee">
+    <verblijfplaats ID="land172">
+      <plaatsNaam>Tokio</plaatsNaam>
+      <maxHotelVergoeding>165</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land173">
+      <plaatsNaam>Chitose</plaatsNaam>
+      <maxHotelVergoeding>110</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land174">
+      <plaatsNaam>Fukuoka</plaatsNaam>
+      <maxHotelVergoeding>130</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land175">
+      <plaatsNaam>Hakone</plaatsNaam>
+      <maxHotelVergoeding>131</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land176">
+      <plaatsNaam>Hiroshima</plaatsNaam>
+      <maxHotelVergoeding>96</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land177">
+      <plaatsNaam>Hokkaido</plaatsNaam>
+      <maxHotelVergoeding>108</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land178">
+      <plaatsNaam>Kanazawa</plaatsNaam>
+      <maxHotelVergoeding>94</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land179">
+      <plaatsNaam>Karatsu</plaatsNaam>
+      <maxHotelVergoeding>120</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land180">
+      <plaatsNaam>Kawasaki</plaatsNaam>
+      <maxHotelVergoeding>71</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land181">
+      <plaatsNaam>Kobe</plaatsNaam>
+      <maxHotelVergoeding>103</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land182">
+      <plaatsNaam>Kokonoe</plaatsNaam>
+      <maxHotelVergoeding>101</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land183">
+      <plaatsNaam>Kumamoto</plaatsNaam>
+      <maxHotelVergoeding>85</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land184">
+      <plaatsNaam>Kyoto</plaatsNaam>
+      <maxHotelVergoeding>136</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land185">
+      <plaatsNaam>Matsuyama</plaatsNaam>
+      <maxHotelVergoeding>74</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land186">
+      <plaatsNaam>Mito</plaatsNaam>
+      <maxHotelVergoeding>86</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land187">
+      <plaatsNaam>Miyazaki</plaatsNaam>
+      <maxHotelVergoeding>120</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land188">
+      <plaatsNaam>Nagasaki</plaatsNaam>
+      <maxHotelVergoeding>85</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land189">
+      <plaatsNaam>Nagoya</plaatsNaam>
+      <maxHotelVergoeding>89</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land190">
+      <plaatsNaam>Nara</plaatsNaam>
+      <maxHotelVergoeding>119</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land191">
+      <plaatsNaam>Narita</plaatsNaam>
+      <maxHotelVergoeding>88</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land192">
+      <plaatsNaam>Niigata</plaatsNaam>
+      <maxHotelVergoeding>89</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land193">
+      <plaatsNaam>Okayama</plaatsNaam>
+      <maxHotelVergoeding>98</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land194">
+      <plaatsNaam>Okinawa</plaatsNaam>
+      <maxHotelVergoeding>152</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land195">
+      <plaatsNaam>Osaka</plaatsNaam>
+      <maxHotelVergoeding>105</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land196">
+      <plaatsNaam>Saga</plaatsNaam>
+      <maxHotelVergoeding>118</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land197">
+      <plaatsNaam>Sapporo</plaatsNaam>
+      <maxHotelVergoeding>117</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land198">
+      <plaatsNaam>Sendai</plaatsNaam>
+      <maxHotelVergoeding>111</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land199">
+      <plaatsNaam>Shimoda</plaatsNaam>
+      <maxHotelVergoeding>143</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land200">
+      <plaatsNaam>Shizuoka</plaatsNaam>
+      <maxHotelVergoeding>46</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land201">
+      <plaatsNaam>Shodoshima</plaatsNaam>
+      <maxHotelVergoeding>150</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land202">
+      <plaatsNaam>Tsuruga</plaatsNaam>
+      <maxHotelVergoeding>92</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land203">
+      <plaatsNaam>Yokohama</plaatsNaam>
+      <maxHotelVergoeding>158</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land204">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>73</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Jemen" europa="nee">
+    <verblijfplaats ID="land205">
+      <plaatsNaam>Sana ' a</plaatsNaam>
+      <maxHotelVergoeding>97</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land206">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>73</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Joegoslavie" europa="ja">
+    <verblijfplaats ID="land207">
+      <plaatsNaam>Belgrado</plaatsNaam>
+      <maxHotelVergoeding>113</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land208">
+      <plaatsNaam>Novi Sad</plaatsNaam>
+      <maxHotelVergoeding>53</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land209">
+      <plaatsNaam>Podgorica</plaatsNaam>
+      <maxHotelVergoeding>110</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land210">
+      <plaatsNaam>Pristina</plaatsNaam>
+      <maxHotelVergoeding>63</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land211">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>45</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Jordanie" europa="nee">
+    <verblijfplaats ID="land212">
+      <plaatsNaam>Amman</plaatsNaam>
+      <maxHotelVergoeding>72</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land213">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>102</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Kaapverdie" europa="nee">
+    <verblijfplaats ID="land214">
+      <plaatsNaam>Praia</plaatsNaam>
+      <maxHotelVergoeding>57</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land215">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>65</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Kameroen" europa="nee">
+    <verblijfplaats ID="land216">
+      <plaatsNaam>Yaound�</plaatsNaam>
+      <maxHotelVergoeding>124</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land217">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>68</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Kazachstan" europa="nee">
+    <verblijfplaats ID="land218">
+      <plaatsNaam>Alma Ata</plaatsNaam>
+      <maxHotelVergoeding>102</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land219">
+      <plaatsNaam>Astana</plaatsNaam>
+      <maxHotelVergoeding>104</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land220">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>137</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Kenia" europa="nee">
+    <verblijfplaats ID="land221">
+      <plaatsNaam>Nairobi</plaatsNaam>
+      <maxHotelVergoeding>127</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land222">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>112</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Kiribati" europa="nee">
+    <verblijfplaats ID="land223">
+      <plaatsNaam>Kiritimati</plaatsNaam>
+      <maxHotelVergoeding>166</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land224">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>74</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Koeweit" europa="nee">
+    <verblijfplaats ID="land225">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>186</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Kongo" europa="nee">
+    <verblijfplaats ID="land226">
+      <plaatsNaam>Brazzaville</plaatsNaam>
+      <maxHotelVergoeding>127</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land227">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>57</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Democratische_Republiek_Noord-Korea" europa="nee">
+    <verblijfplaats ID="land228">
+      <plaatsNaam>Pyongyang</plaatsNaam>
+      <maxHotelVergoeding>118</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land229">
+      <plaatsNaam>overige</plaatsNaam>
+      <maxHotelVergoeding>71</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Republiek_Zuid-Korea" europa="nee">
+    <verblijfplaats ID="land230">
+      <plaatsNaam>Seoul</plaatsNaam>
+      <maxHotelVergoeding>176</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land231">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>149</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Kyrgystan" europa="nee">
+    <verblijfplaats ID="land232">
+      <plaatsNaam>Bishkek</plaatsNaam>
+      <maxHotelVergoeding>84</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land233">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>32</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Letland" europa="ja">
+    <verblijfplaats ID="land234">
+      <plaatsNaam>Riga</plaatsNaam>
+      <maxHotelVergoeding>138</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land235">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>72</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Litouwen" europa="ja">
+    <verblijfplaats ID="land236">
+      <plaatsNaam>Vilnius</plaatsNaam>
+      <maxHotelVergoeding>84</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land237">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>74</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Luxemburg" europa="ja">
+    <verblijfplaats ID="land238">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>126</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Malta" europa="ja">
+    <verblijfplaats ID="land239">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>108</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Monaco" europa="ja">
+    <verblijfplaats ID="land240">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>102</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Noorwegen" europa="ja">
+    <verblijfplaats ID="land241">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>107</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Oekraine" europa="ja">
+    <verblijfplaats ID="land242">
+      <plaatsNaam>Kiew (Kyjiv)</plaatsNaam>
+      <maxHotelVergoeding>159</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land243">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>149</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Oostenrijk" europa="ja">
+    <verblijfplaats ID="land244">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>91</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Polen" europa="ja">
+    <verblijfplaats ID="land245">
+      <plaatsNaam>Warschau</plaatsNaam>
+      <maxHotelVergoeding>188</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land246">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>87</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Portugal" europa="ja">
+    <verblijfplaats ID="land247">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>103</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Russische_Federatie" europa="ja">
+    <verblijfplaats ID="land248">
+      <plaatsNaam>Moskou</plaatsNaam>
+      <maxHotelVergoeding>160</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Slowakije" europa="ja">
+    <verblijfplaats ID="land249">
+      <plaatsNaam>Bratislava</plaatsNaam>
+      <maxHotelVergoeding>89</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land250">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>41</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Spanje" europa="ja">
+    <verblijfplaats ID="land251">
+      <plaatsNaam>Madrid</plaatsNaam>
+      <maxHotelVergoeding>122</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land252">
+      <plaatsNaam>Barcelona</plaatsNaam>
+      <maxHotelVergoeding>112</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land253">
+      <plaatsNaam>Val�ncia</plaatsNaam>
+      <maxHotelVergoeding>103</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land254">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>70</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Turkije" europa="ja">
+    <verblijfplaats ID="land255">
+      <plaatsNaam>Istanbul</plaatsNaam>
+      <maxHotelVergoeding>97</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land256">
+      <plaatsNaam>Ankara</plaatsNaam>
+      <maxHotelVergoeding>73</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land257">
+      <plaatsNaam>Antalya</plaatsNaam>
+      <maxHotelVergoeding>68</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land258">
+      <plaatsNaam>Bursa</plaatsNaam>
+      <maxHotelVergoeding>79</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land259">
+      <plaatsNaam>Izmir</plaatsNaam>
+      <maxHotelVergoeding>59</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land260">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>35</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Zweden" europa="ja">
+    <verblijfplaats ID="land261">
+      <plaatsNaam>Stockholm</plaatsNaam>
+      <maxHotelVergoeding>135</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land262">
+      <plaatsNaam>Malm�</plaatsNaam>
+      <maxHotelVergoeding>135</maxHotelVergoeding>
+    </verblijfplaats>
+    <verblijfplaats ID="land263">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>115</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+  <land naam="Zwitserland" europa="ja">
+    <verblijfplaats ID="land264">
+      <plaatsNaam>Overige</plaatsNaam>
+      <maxHotelVergoeding>100</maxHotelVergoeding>
+    </verblijfplaats>
+  </land>
+</ReisBestemmingen>

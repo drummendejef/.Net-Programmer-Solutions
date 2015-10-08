@@ -1,0 +1,15 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\bin\Debug\_10.Installer.exe.config
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\bin\Debug\_10.Installer.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\bin\Debug\_10.Installer.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\bin\Debug\_10.Library.dll
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\bin\Debug\_10.Library.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\10. Installer.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\_10.Installer_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\_10.Installer.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\_10.Installer.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\10. Installer.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\_10.Installer.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Installer\obj\Debug\_10.Installer.pdb

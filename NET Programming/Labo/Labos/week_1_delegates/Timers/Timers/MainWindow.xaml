@@ -1,0 +1,14 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Timers" x:Class="Timers.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <CheckBox x:Name="chkIsMultiThreading" Content="Multithreding" HorizontalAlignment="Left" Margin="51,42,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnStart1" Content="Start timer 1" HorizontalAlignment="Left" Margin="69,92,0,0" VerticalAlignment="Top" Width="75" Click="btnStart1_Click"/>
+        <Button x:Name="btnStart2" Content="Start timer 2" HorizontalAlignment="Left" Margin="305,92,0,0" VerticalAlignment="Top" Width="75"/>
+        <local:TimerBox x:Name="txtTimer1" HorizontalAlignment="Left" Margin="69,117,0,0" TextWrapping="Wrap" Text="TimerBox" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>

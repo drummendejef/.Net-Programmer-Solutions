@@ -1,0 +1,11 @@
+database ophalen
+
+pagination: records 
+
+primary key meerdere cols
+
+prefetchen (door code) // zit op pagina 4, haal pagina 3 en 5 op
+
+
+rekening houden met ervoor toegevoegde entries
+baseren op een entry, niet pagina

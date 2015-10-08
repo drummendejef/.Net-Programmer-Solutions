@@ -1,0 +1,13 @@
+g:\Documents\Jaar 3\.NET Programming\Labo\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\obj\Debug\Sudoku.g.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Sudoku\Sudoku\obj\Debug\Sudoku.pdb

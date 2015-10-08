@@ -1,0 +1,4 @@
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02_reflection\Plugin\Plugin.Attributes\bin\Debug\Plugin.Attributes.dll
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02_reflection\Plugin\Plugin.Attributes\bin\Debug\Plugin.Attributes.pdb
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02_reflection\Plugin\Plugin.Attributes\obj\Debug\Plugin.Attributes.dll
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02_reflection\Plugin\Plugin.Attributes\obj\Debug\Plugin.Attributes.pdb

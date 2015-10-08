@@ -1,0 +1,5 @@
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\StoredProcedures\bin\Debug\StoredProcedures.dacpac
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\StoredProcedures\bin\Debug\StoredProcedures.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\StoredProcedures\bin\Debug\StoredProcedures.pdb
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\StoredProcedures\obj\Debug\StoredProcedures.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\StoredProcedures\obj\Debug\StoredProcedures.pdb

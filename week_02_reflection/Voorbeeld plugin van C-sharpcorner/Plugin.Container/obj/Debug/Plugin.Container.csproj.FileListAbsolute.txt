@@ -1,0 +1,16 @@
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\obj\Debug\Plugin.Container.csprojResolveAssemblyReference.cache
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\obj\Debug\Plugin.Container.MainForm.resources
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\obj\Debug\Plugin.Container.Properties.Resources.resources
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\obj\Debug\Plugin.Container.csproj.GenerateResource.Cache
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\bin\Debug\Plugin.Container.exe
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\bin\Debug\Plugin.Container.pdb
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\bin\Debug\BlueForm.Plugin.dll
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\bin\Debug\Plugin.Interface.dll
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\bin\Debug\RedForm.Plugin.dll
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\bin\Debug\BlueForm.Plugin.pdb
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\bin\Debug\Plugin.Interface.pdb
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\bin\Debug\RedForm.Plugin.pdb
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\obj\Debug\Plugin.Container.exe
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02\Voorbeeld plugin van C-sharpcorner\Plugin.Container\obj\Debug\Plugin.Container.pdb
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02_reflection\Voorbeeld plugin van C-sharpcorner\Plugin.Container\obj\Debug\Plugin.Container.exe
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_02_reflection\Voorbeeld plugin van C-sharpcorner\Plugin.Container\obj\Debug\Plugin.Container.pdb

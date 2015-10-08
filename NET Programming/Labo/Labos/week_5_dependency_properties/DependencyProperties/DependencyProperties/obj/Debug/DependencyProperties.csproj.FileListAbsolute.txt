@@ -1,0 +1,30 @@
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.exe.config
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.exe
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.pdb
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.csprojResolveAssemblyReference.cache
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\MainWindow.baml
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\MainWindow.g.cs
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\App.g.cs
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties_MarkupCompile.cache
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.g.resources
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.Properties.Resources.resources
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.csproj.GenerateResource.Cache
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.exe
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.pdb
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Srg\Desktop\2014 - 2015\.NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties_MarkupCompile.lref
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.exe.config
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.exe
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.pdb
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.exe
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\bin\Debug\DependencyProperties.pdb
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.csprojResolveAssemblyReference.cache
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\MainWindow.g.cs
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\App.g.cs
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties_MarkupCompile.cache
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties_MarkupCompile.lref
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\MainWindow.baml
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.g.resources
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.Properties.Resources.resources
+g:\Desktop\NET Programming\week_5_dependency_properties\DependencyProperties\DependencyProperties\obj\Debug\DependencyProperties.csproj.GenerateResource.Cache

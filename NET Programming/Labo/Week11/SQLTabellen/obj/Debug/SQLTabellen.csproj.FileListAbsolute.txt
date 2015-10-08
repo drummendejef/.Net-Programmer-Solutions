@@ -1,0 +1,13 @@
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\bin\Debug\SQLTabellen.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\bin\Debug\SQLTabellen.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\bin\Debug\SQLTabellen.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\SQLTabellen_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\SQLTabellen.g.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\SQLTabellen.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\SQLTabellen.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\SQLTabellen.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\SQLTabellen.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Week11\SQLTabellen\obj\Debug\SQLTabellen_Content.g.cs

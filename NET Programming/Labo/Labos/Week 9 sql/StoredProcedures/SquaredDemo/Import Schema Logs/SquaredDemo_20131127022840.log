@@ -1,0 +1,73 @@
+27/11/2013 15:28:40	This log contains information about the import schema operation into project 'SquaredDemo' on computer 'THOMAS-LAPTOP' by user 'Thomas'.
+27/11/2013 15:28:40	Import of database schema has started.
+27/11/2013 15:28:47	Gathering database options
+27/11/2013 15:28:47	Gathering users
+27/11/2013 15:28:47	Gathering roles
+27/11/2013 15:28:47	Gathering application roles
+27/11/2013 15:28:47	Gathering role memberships
+27/11/2013 15:28:47	Gathering filegroups
+27/11/2013 15:28:47	Gathering full-text catalogs
+27/11/2013 15:28:47	Gathering assemblies
+27/11/2013 15:28:47	Gathering certificates
+27/11/2013 15:28:47	Gathering asymmetric keys
+27/11/2013 15:28:47	Gathering symmetric keys
+27/11/2013 15:28:47	Gathering encrypted symmetric keys
+27/11/2013 15:28:47	Gathering schemas
+27/11/2013 15:28:47	Gathering XML schema collections
+27/11/2013 15:28:47	Gathering user-defined data types
+27/11/2013 15:28:47	Gathering user-defined types
+27/11/2013 15:28:47	Gathering table types
+27/11/2013 15:28:47	Gathering unique keys for table types
+27/11/2013 15:28:47	Gathering primary keys for table types
+27/11/2013 15:28:47	Gathering check constraints for table types
+27/11/2013 15:28:47	Gathering default constraints for table types
+27/11/2013 15:28:47	Gathering partition functions
+27/11/2013 15:28:47	Gathering partition schemes
+27/11/2013 15:28:47	Gathering functions
+27/11/2013 15:28:47	Gathering encrypted functions
+27/11/2013 15:28:47	Gathering aggregates
+27/11/2013 15:28:47	Gathering procedures
+27/11/2013 15:28:47	Gathering encrypted procedures
+27/11/2013 15:28:47	Gathering tables
+27/11/2013 15:28:47	Gathering primary keys
+27/11/2013 15:28:47	Gathering unique constraints
+27/11/2013 15:28:47	Gathering foreign keys
+27/11/2013 15:28:47	Gathering default constraints
+27/11/2013 15:28:47	Gathering check constraints
+27/11/2013 15:28:47	Gathering views
+27/11/2013 15:28:47	Gathering encrypted views
+27/11/2013 15:28:47	Gathering indexes
+27/11/2013 15:28:47	Gathering statistics
+27/11/2013 15:28:47	Gathering full-text index stoplists
+27/11/2013 15:28:47	Gathering search property lists
+27/11/2013 15:28:47	Gathering search properties
+27/11/2013 15:28:47	Gathering full-text indexes
+27/11/2013 15:28:47	Gathering column store indexes
+27/11/2013 15:28:47	Gathering spatial indexes
+27/11/2013 15:28:47	Gathering XML indexes
+27/11/2013 15:28:47	Gathering encrypted triggers
+27/11/2013 15:28:47	Gathering triggers
+27/11/2013 15:28:47	Gathering encrypted and clr ddl triggers
+27/11/2013 15:28:47	Gathering ddl triggers
+27/11/2013 15:28:47	Gathering synonyms
+27/11/2013 15:28:47	Gathering defaults
+27/11/2013 15:28:47	Gathering data constraint uddt bindings
+27/11/2013 15:28:47	Gathering rules
+27/11/2013 15:28:47	Gathering data constraint uddt bindings
+27/11/2013 15:28:47	Gathering message types
+27/11/2013 15:28:47	Gathering queues
+27/11/2013 15:28:47	Gathering contracts
+27/11/2013 15:28:47	Gathering services
+27/11/2013 15:28:47	Gathering event notifications
+27/11/2013 15:28:47	Gathering remote service bindings
+27/11/2013 15:28:47	Gathering broker priorities
+27/11/2013 15:28:47	Gathering signatures
+27/11/2013 15:28:47	Gathering data compression options
+27/11/2013 15:28:47	Gathering sequence types
+27/11/2013 15:28:47	Gathering extended properties
+27/11/2013 15:28:47	Gathering credentials
+27/11/2013 15:28:47	Gathering logins
+27/11/2013 15:28:47	Gathering server audits
+27/11/2013 15:28:49	Finished importing database.
+27/11/2013 15:28:49	A summary of the import was saved to the following location: C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\SquaredDemo\Import Schema Logs\SquaredDemo_20131127022840.log
+27/11/2013 15:28:49	Click Finish to continue...

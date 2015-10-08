@@ -1,0 +1,15 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\bin\Debug\iTextSharp.exe.config
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\bin\Debug\iTextSharp.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\bin\Debug\iTextSharp.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\iTextSharp.csprojResolveAssemblyReference.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\MainWindow.baml
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\MainWindow.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\App.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\iTextSharp_MarkupCompile.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\iTextSharp.g.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\iTextSharp.Properties.Resources.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\iTextSharp.csproj.GenerateResource.Cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\iTextSharp.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\obj\Debug\iTextSharp.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\bin\Debug\itextsharp.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\iTextSharp\iTextSharp\bin\Debug\itextsharp.xml

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="pagesystemModelStoreContainer" CdmEntityContainer="pagesystemEntities">
+    <EntitySetMapping Name="media2">
+      <EntityTypeMapping TypeName="pagesystemModel.media2">
+        <MappingFragment StoreEntitySet="media2">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="cat" ColumnName="cat" />
+          <ScalarProperty Name="title" ColumnName="title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

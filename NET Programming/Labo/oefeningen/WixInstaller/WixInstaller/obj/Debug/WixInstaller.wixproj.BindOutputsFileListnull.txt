@@ -1,0 +1,2 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\WixInstaller\WixInstaller\bin\Debug\WixInstaller.msi
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\WixInstaller\WixInstaller\bin\Debug\WixInstaller.wixpdb

@@ -1,0 +1,65 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\Behavior.exe.config
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\Behavior.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\Behavior.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\Behavior.csprojResolveAssemblyReference.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\MainWindow.baml
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\MainWindow.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\App.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\Behavior_MarkupCompile.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\Behavior.g.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\Behavior.Properties.Resources.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\Behavior.csproj.GenerateResource.Cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\Behavior.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\Behavior.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\Behavior_MarkupCompile.lref
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\Behavior\Behavior\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\Behavior.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\Behavior.exe
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\Behavior.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\Behavior.exe
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\Behavior.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\Microsoft.Expression.Interactions.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\System.Windows.Interactivity.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\de\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\en\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\es\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\it\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\Behavior.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\Behavior_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\Behavior_MarkupCompile.lref
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\Behavior.g.resources
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\Behavior.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\Behavior\Behavior\obj\Debug\Behavior.csproj.GenerateResource.Cache

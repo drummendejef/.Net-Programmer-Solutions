@@ -1,0 +1,16 @@
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\obj\Debug\Behaviors.csprojResolveAssemblyReference.cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\Behaviors.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\Behaviors.pdb
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\System.Windows.Interactivity.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\obj\Debug\Behaviors.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 7 Behaviours\Behaviours\Behaviors\obj\Debug\Behaviors.pdb

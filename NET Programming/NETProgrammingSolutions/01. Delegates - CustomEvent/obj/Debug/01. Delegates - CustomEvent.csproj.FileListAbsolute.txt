@@ -1,0 +1,29 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\bin\Debug\01. Delegates - CustomEvent.exe.config
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\bin\Debug\01. Delegates - CustomEvent.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\bin\Debug\01. Delegates - CustomEvent.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent_MarkupCompile.lref
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\_01.Delegates___CustomEvent.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\bin\Debug\01. Delegates - CustomEvent.exe.config
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\bin\Debug\01. Delegates - CustomEvent.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\bin\Debug\01. Delegates - CustomEvent.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent_MarkupCompile.lref
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\_01.Delegates___CustomEvent.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\01. Delegates - CustomEvent\obj\Debug\01. Delegates - CustomEvent.pdb

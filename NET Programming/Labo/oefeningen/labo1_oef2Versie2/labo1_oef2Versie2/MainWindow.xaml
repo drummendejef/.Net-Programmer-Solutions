@@ -1,0 +1,15 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:labo1_oef2Versie2" x:Class="labo1_oef2Versie2.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <local:Teller HorizontalAlignment="Left" Height="21" Margin="43,118,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="62" x:Name="txtTeller1"/>
+        <local:Teller HorizontalAlignment="Left" Height="21" Margin="204,118,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="62" x:Name="txtTeller2"/>
+        <Button Content="Start" Name="btnStart1" HorizontalAlignment="Left" Height="21" Margin="43,171,0,0" VerticalAlignment="Top" Width="51" Click="btnStart1_Click"/>
+        <Button Content="Start" Name="btnStart2" HorizontalAlignment="Left" Height="21" Margin="204,171,0,0" VerticalAlignment="Top" Width="51" Click="btnStart2_Click"/>
+        <CheckBox Content="Threaded" HorizontalAlignment="Left" Margin="60,49,0,0" VerticalAlignment="Top" Name="chkThread"/>
+
+    </Grid>
+</Window>

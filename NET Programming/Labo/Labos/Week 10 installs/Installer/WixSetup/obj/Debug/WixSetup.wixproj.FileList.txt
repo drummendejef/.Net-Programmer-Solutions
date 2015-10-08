@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 10 installs\Installer\WixSetup\bin\Debug\WixSetup.msi
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 10 installs\Installer\WixSetup\bin\Debug\WixSetup.wixpdb
+obj\Debug\WixSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixSetup.wixproj.BindBuiltOutputsFileListnull.txt

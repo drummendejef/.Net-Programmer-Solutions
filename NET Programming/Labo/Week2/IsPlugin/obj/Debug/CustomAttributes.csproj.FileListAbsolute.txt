@@ -1,0 +1,12 @@
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\CustomAttributes.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\bin\Debug\CustomAttributes.exe.config
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\bin\Debug\CustomAttributes.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\bin\Debug\CustomAttributes.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\CustomAttributes_MarkupCompile.cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\CustomAttributes.g.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\CustomAttributes.Properties.Resources.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\CustomAttributes.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Week2\IsPlugin\obj\Debug\CustomAttributes.pdb

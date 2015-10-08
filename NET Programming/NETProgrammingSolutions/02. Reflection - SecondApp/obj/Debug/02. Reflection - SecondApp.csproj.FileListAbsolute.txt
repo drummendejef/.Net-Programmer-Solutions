@@ -1,0 +1,13 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\bin\Debug\_02.Reflection___SecondApp.exe.config
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\bin\Debug\_02.Reflection___SecondApp.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\bin\Debug\_02.Reflection___SecondApp.pdb
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\02. Reflection - SecondApp.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\_02.Reflection___SecondApp_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\_02.Reflection___SecondApp.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\_02.Reflection___SecondApp.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\02. Reflection - SecondApp.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\_02.Reflection___SecondApp.exe
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\02. Reflection - SecondApp\obj\Debug\_02.Reflection___SecondApp.pdb

@@ -1,0 +1,45 @@
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\Reflection Infrastructure.exe.config
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\Reflection Infrastructure.exe
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\Reflection Infrastructure.pdb
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.csprojResolveAssemblyReference.cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\MainWindow.baml
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\MainWindow.g.cs
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\App.g.cs
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure_MarkupCompile.cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.g.resources
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection_Infrastructure.Properties.Resources.resources
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.csproj.GenerateResource.Cache
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.exe
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.pdb
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\CustomAttributes.dll
+C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\CustomAttributes.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\Reflection Infrastructure.exe.config
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\Reflection Infrastructure.exe
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\Reflection Infrastructure.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\CustomAttributes.dll
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\CustomAttributes.pdb
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure_MarkupCompile.cache
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.g.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection_Infrastructure.Properties.Resources.resources
+g:\Documents\Jaar 3\.NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.csproj.GenerateResource.Cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\Reflection Infrastructure.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\Reflection Infrastructure.exe
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\Reflection Infrastructure.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\CustomAttributes.dll
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\bin\Debug\CustomAttributes.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.g.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection_Infrastructure.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\Labo\Labos\Week 2 Reflection\ReflectionInfrastructure\Reflection Infrastructure\obj\Debug\Reflection Infrastructure.csproj.GenerateResource.Cache

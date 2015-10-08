@@ -1,0 +1,6 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\WixInstaller\WixInstaller\bin\Debug\WixInstaller.wixpdb
+obj\Debug\Product.wixobj
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\WixInstaller\WixInstaller\bin\Debug\WixInstaller.msi
+obj\Debug\WixInstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixInstaller.wixproj.BindBuiltOutputsFileListnull.txt

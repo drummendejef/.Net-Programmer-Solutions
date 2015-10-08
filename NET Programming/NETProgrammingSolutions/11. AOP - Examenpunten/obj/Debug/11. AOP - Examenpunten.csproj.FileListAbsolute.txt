@@ -1,0 +1,9 @@
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\09. AOP - Examenpunten\bin\Debug\_11.AOP___Examenpunten.exe.config
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP - Examenpunten\obj\Debug\11. AOP - Examenpunten.csprojResolveAssemblyReference.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP - Examenpunten\obj\Debug\MainWindow.baml
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP - Examenpunten\obj\Debug\MainWindow.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP - Examenpunten\obj\Debug\App.g.cs
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP - Examenpunten\obj\Debug\_11.AOP___Examenpunten_MarkupCompile.cache
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP - Examenpunten\obj\Debug\_11.AOP___Examenpunten.g.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP - Examenpunten\obj\Debug\_11.AOP___Examenpunten.Properties.Resources.resources
+g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\11. AOP - Examenpunten\obj\Debug\11. AOP - Examenpunten.csproj.GenerateResource.Cache

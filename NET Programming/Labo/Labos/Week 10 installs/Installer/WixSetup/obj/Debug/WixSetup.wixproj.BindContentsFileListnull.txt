@@ -1,0 +1,2 @@
+..\Installer\bin\Debug\Installer.exe
+..\Installer\bin\Debug\Library.dll

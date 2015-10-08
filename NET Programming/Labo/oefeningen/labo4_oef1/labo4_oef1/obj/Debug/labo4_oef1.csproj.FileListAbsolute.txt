@@ -1,0 +1,36 @@
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\labo4_oef1.exe.config
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\labo4_oef1.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\labo4_oef1.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1.csprojResolveAssemblyReference.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\MainWindow.baml
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\MainWindow.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\App.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1_MarkupCompile.cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1.g.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1.Properties.Resources.resources
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1.csproj.GenerateResource.Cache
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1.exe
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1.pdb
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1_MarkupCompile.lref
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\wpftoolkit.dll
+C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\wpftoolkit.pdb
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo4_oef1\labo4_oef1\bin\Debug\labo4_oef1.exe.config
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1.exe
+g:\Documents\Jaar 3\NET Programming\Labo\oefeningen\labo4_oef1\labo4_oef1\obj\Debug\labo4_oef1.pdb

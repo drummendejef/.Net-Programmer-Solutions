@@ -1,0 +1,14 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:TemplatedControls" x:Class="TemplatedControls.MainWindow"
+        Title="MainWindow" Height="350" Width="480">
+    <Grid>
+        <local:ccverkeerslicht HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top"/>
+        <local:ccverkeerslicht HorizontalAlignment="Left" Margin="85,90,0,0" VerticalAlignment="Top"/>
+        <local:ccverkeerslicht HorizontalAlignment="Left" Margin="160,90,0,0" VerticalAlignment="Top"/>
+        <local:ccverkeerslicht HorizontalAlignment="Left" Margin="235,90,0,0" VerticalAlignment="Top"/>
+        <local:ccverkeerslicht HorizontalAlignment="Left" Margin="310,90,0,0" VerticalAlignment="Top"/>
+        <local:ccverkeerslicht HorizontalAlignment="Left" Margin="385,90,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

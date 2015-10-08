@@ -13,3 +13,6 @@ E:\School\2015 - 2016\.Net Programmer Solutions\week_01_delegates\Multithreading
 E:\School\2015 - 2016\.Net Programmer Solutions\week_01_delegates\Multithreading\Multithreading\obj\Debug\Multithreading.pdb
 E:\School\2015 - 2016\.Net Programmer Solutions\week_01_delegates\Multithreading\Multithreading\obj\Debug\Multithreading.csprojResolveAssemblyReference.cache
 E:\School\2015 - 2016\.Net Programmer Solutions\week_01_delegates\Multithreading\Multithreading\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_01_delegates\Multithreading\Multithreading\bin\Debug\Multithreading.exe.config
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_01_delegates\Multithreading\Multithreading\obj\Debug\Multithreading.exe
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_01_delegates\Multithreading\Multithreading\obj\Debug\Multithreading.pdb

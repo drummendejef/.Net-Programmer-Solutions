@@ -1,0 +1,84 @@
+menu item plugins> item2 (doet niets)
+opstartfolder toepassing: exe/dll plaatsen
+	opstarten: gelezen, info weergeven in programma
+doel: verschillende componenten laten werken onder 1 overkoepelende exe dmv REFLECTIES
+---------------------------------------
+code info nutting:
+	- klasses
+	- interface elementen vd klass
+		- oproepen
+		- parameters (volgorde, type)
+	- overerving
+	- attributen, methods
+	- access specifiers, ...
+
+binnen OOP
+	- klassen zijn instanties (type System.Type) dus ondervraagbaar
+	- assemblies (gecompileerde .NET programma's zijn Assembly-class instanties, dus ondervraagbaar
+	- Activator klasse, gebruik om objecten aan te maken van die klasse instanties
+	- klasse instaties worden gebruikt om methodes van een object via hun naam (stringà op te roepen
+
+meta-data = informatie over informatie
+
+attribuut = extra gegeven gekopppeld aan code-element (in reflectie)
+	- is zelf object maar iets anders gecodeerd
+	- kan gekoppeld worden aan event, parameters, ...
+
+	= dient voor post-processor om zaken mee te kunnen doen
+
+zelf aanmaken: erf van Attribute class (naam moet eindigen op Attribute /guideline)
+	plaats attribuutusage attribuut op attribuut (specifeert op welke code elementen dit attribuut van toespassing is
+	nodig: geparametriseerde constructor (ctor)
+	extra interface elementen (minstens om ctor data terug op te vragen)
+
+[AttributeUsage(AttributeTargets.Class)] // enkel gebruikt op klasse definities
+public class myPluginAttribute...
+
+namespace myPlugins {
+	[myPluginAttribute.myPlugin(true, "Persoon-plugin")]
+	public partial class frmPersoon : Form
+	{
+		...
+
+ZIE: http://msdn.microsoft.com/en-us/library/aa288454(v=vs.71).aspx
+ZIE: http://msdn.microsoft.com/en-us/library/system.attribute(v=vs.110).aspx
+
+Serialization: het omvormen van een object naar een byte-stream om een object op te slaan of over te brengen naar geheugen, database of bestand (omgekeerd = deserialization)
+
+
+Plug-In: 
+	in bestaande toepassing na compilatie en distributie nieuwe functionaliteit toevoegen
+		- zonder opnieuw te compuleren/distributeren
+		- dynamisch/at runtime opnemen van nieuwe programmaa's in hoofdprogramma
+
+zoek naar dll/exe
+laad alle dll/exe, onderzoek of er classes voorkomen met IsPluginAttribute-attributen
+	- via reflection, niet via referenties
+gevonden plugins toevoegen
+
+private void verwerkPlugins(string sDLL) {
+	system.reflection.assembly ass = system.reflection.assembly.loadfile(sDLL);
+	foreach(system.type t in ass.gettypes()) 
+	{ messagebox.show(t.name); }
+}
+
+indien plugin: omschrijving (via attribuut), voeg menu item toe met omschrijving
+indien op menu item geklikt: formulier
+
+object maken van system.type object (niet via type t= new type(), werkt niet)
+activator.createinstance 
+	- gemakkelijkst wnr ctor geen params heeft (met lukt wel)
+	window w = activator.createinstance(system.type object) as window;
+	w.show();
+ZIE: http://msdn.microsoft.com/en-us/library/system.activator.createinstance(v=vs.110).aspx
+
+
+system.type = beschrijvende instantie van de klasse
+
+system.type clspers = zoekClassMetNaam("clsPersoon");
+object op = activator.createinstance(clspers);
+int getal = (int) clspers.invokemember("volgnr", system.reflection.bindingflags.getproperty, null, op, null, null);
+	=> toepassing van methode waarvan naam of klasse bij compile time niet kent
+
+EX: listview, arraylist objecten zelfde type, neemt eerste, kijk naar properties, vul tabel in, voor verschillende soorten objecten (arraylist a met prop 1,2,3, arralist b met prop 3,4)
+
