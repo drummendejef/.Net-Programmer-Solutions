@@ -1,5 +1,0 @@
-g:\Documents\Jaar 3\NET Programming\Labo\Week11\KwadraatDemo\bin\Debug\KwadraatDemo.dacpac
-g:\Documents\Jaar 3\NET Programming\Labo\Week11\KwadraatDemo\bin\Debug\KwadraatDemo.dll
-g:\Documents\Jaar 3\NET Programming\Labo\Week11\KwadraatDemo\bin\Debug\KwadraatDemo.pdb
-g:\Documents\Jaar 3\NET Programming\Labo\Week11\KwadraatDemo\obj\Debug\KwadraatDemo.dll
-g:\Documents\Jaar 3\NET Programming\Labo\Week11\KwadraatDemo\obj\Debug\KwadraatDemo.pdb

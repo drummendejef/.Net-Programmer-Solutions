@@ -1,1 +1,0 @@
-CS-Script.exe sample.txt

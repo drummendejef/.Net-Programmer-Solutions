@@ -1,1 +1,0 @@
-g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\Delegates - CustomEvent\bin\Debug\Delegates - CustomEvent.exe.config

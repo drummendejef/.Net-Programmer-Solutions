@@ -1,4 +1,0 @@
-C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo2_oef1\CustomAttribute\bin\Debug\CustomAttribute.dll
-C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo2_oef1\CustomAttribute\bin\Debug\CustomAttribute.pdb
-C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo2_oef1\CustomAttribute\obj\Debug\CustomAttribute.dll
-C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\labo2_oef1\CustomAttribute\obj\Debug\CustomAttribute.pdb

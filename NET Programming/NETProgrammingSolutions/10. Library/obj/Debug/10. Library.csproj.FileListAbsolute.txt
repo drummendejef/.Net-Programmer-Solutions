@@ -1,5 +1,0 @@
-g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Library\bin\Debug\_10.Library.dll
-g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Library\bin\Debug\_10.Library.pdb
-g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Library\obj\Debug\10. Library.csprojResolveAssemblyReference.cache
-g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Library\obj\Debug\_10.Library.dll
-g:\Documents\Jaar 3\NET Programming\NETProgrammingSolutions\10. Library\obj\Debug\_10.Library.pdb

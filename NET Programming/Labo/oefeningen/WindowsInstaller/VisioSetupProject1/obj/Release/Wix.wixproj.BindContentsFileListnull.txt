@@ -1,2 +1,0 @@
-.\Stencil_1_M.vss
-.\Template_1_M.vst

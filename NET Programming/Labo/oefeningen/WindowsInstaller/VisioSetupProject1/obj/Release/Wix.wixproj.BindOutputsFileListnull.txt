@@ -1,2 +1,0 @@
-C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\WindowsInstaller\VisioSetupProject1\bin\Release\VisioSetupProject1.msi
-C:\Users\alisio\Desktop\howest\3NMCT\dotnet\oefeningen\WindowsInstaller\VisioSetupProject1\bin\Release\VisioSetupProject1.wixpdb

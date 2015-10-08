@@ -1,2 +1,0 @@
-C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 10 installs\Installer\WixSetup\bin\Debug\WixSetup.msi
-C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 10 installs\Installer\WixSetup\bin\Debug\WixSetup.wixpdb

@@ -1,5 +1,0 @@
-C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\SquaredDemo\bin\Debug\SquaredDemo.dacpac
-C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\SquaredDemo\bin\Debug\SquaredDemo.dll
-C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\SquaredDemo\bin\Debug\SquaredDemo.pdb
-C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\SquaredDemo\obj\Debug\SquaredDemo.dll
-C:\Howest\Jaar 3\Programmer Solutions\Labos\Week 9 sql\StoredProcedures\SquaredDemo\obj\Debug\SquaredDemo.pdb
