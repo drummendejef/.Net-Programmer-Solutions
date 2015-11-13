@@ -8,12 +8,12 @@
         Title="MainWindow" Height="350" Width="525"
         WindowStyle="None">
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="*"/>
-        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <local:ccCaption Margin="0,10,10,0" VerticalAlignment="Top" HorizontalAlignment="Right"/>
+
 
     </Grid>
 </Window>

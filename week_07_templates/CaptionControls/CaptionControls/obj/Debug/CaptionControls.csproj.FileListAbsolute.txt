@@ -12,3 +12,5 @@ E:\School\2015 - 2016\.Net-Programmer-Solutions\week_07_templates\CaptionControl
 E:\School\2015 - 2016\.Net-Programmer-Solutions\week_07_templates\CaptionControls\CaptionControls\obj\Debug\CaptionControls.csproj.GenerateResource.Cache
 E:\School\2015 - 2016\.Net-Programmer-Solutions\week_07_templates\CaptionControls\CaptionControls\obj\Debug\CaptionControls.exe
 E:\School\2015 - 2016\.Net-Programmer-Solutions\week_07_templates\CaptionControls\CaptionControls\obj\Debug\CaptionControls.pdb
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_07_templates\CaptionControls\CaptionControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_07_templates\CaptionControls\CaptionControls\obj\Debug\Themes\Generic.baml
