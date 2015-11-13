@@ -1,0 +1,18 @@
+﻿<Window x:Class="Behaviours.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+        xmlns:local="clr-namespace:Behaviours"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="700">
+    <Grid>
+        <Button x:Name="button" Content="Dependency Property Drag" HorizontalAlignment="Left" Margin="180,27,0,0" VerticalAlignment="Top" Width="87" Height="55"
+                local:DragDependencyProperty.IsDraggable="True" />
+        <Button x:Name="button1" Content="Draggable button" HorizontalAlignment="Left" Margin="165,123,0,0" VerticalAlignment="Top" Width="127" Height="70"/>
+        <TextBlock  local:DragDependencyProperty.IsDraggable="true" x:Name="textBlock" Background="Pink" HorizontalAlignment="Left" Margin="335,63,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="76" Width="136"/>
+
+
+    </Grid>
+</Window>
