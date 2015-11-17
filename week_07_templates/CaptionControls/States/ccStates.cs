@@ -44,8 +44,30 @@ namespace States
     ///     <MyNamespace:ccStates/>
     ///
     /// </summary>
+    [TemplateVisualState(Name ="Groen",GroupName ="Licht")]
+    [TemplateVisualState(Name = "Yellow", GroupName = "Light")]
+    [TemplateVisualState(Name = "Red", GroupName = "Light")]
     public class ccStates : Control
     {
+        private Shape _greenLight;
+
+        public Shape GreenLight
+        {
+            get { return _greenLight; }
+            set
+            {
+                if (value == null) return;
+
+                _greenLight = value;
+                _greenLight.MouseUp += _greenLight_MouseUp;
+            }
+        }
+
+        void _greenLight_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            VisualStateManager.GoToState(this, "Green", true);
+        }
+
         static ccStates()
         {
             DefaultStyleKeyProperty.OverrideMetadata(typeof(ccStates), new FrameworkPropertyMetadata(typeof(ccStates)));
