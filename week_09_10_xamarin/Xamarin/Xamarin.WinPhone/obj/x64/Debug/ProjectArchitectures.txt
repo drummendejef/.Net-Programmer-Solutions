@@ -1,0 +1,2 @@
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_09_10_xamarin\Xamarin\Xamarin.WinPhone\Xamarin.WinPhone.csproj;x64
+E:\School\2015 - 2016\.Net-Programmer-Solutions\week_09_10_xamarin\Xamarin\Xamarin\Xamarin\Xamarin.csproj;neutral

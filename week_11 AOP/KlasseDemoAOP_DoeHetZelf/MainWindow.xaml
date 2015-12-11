@@ -1,0 +1,18 @@
+﻿<Window x:Class="KlasseDemoAOP_DoeHetZelf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KlasseDemoAOP_DoeHetZelf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock x:Name="TextblockNutteloos" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="N: " VerticalAlignment="Top"/>
+        <TextBox x:Name="txtN" Margin="122,10,167,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" TextChanged="txtInput_TextChanged"/>
+        <TextBlock x:Name="lblMinMaxException" HorizontalAlignment="Left" Margin="10,31,0,0" VerticalAlignment="Top" Width="497"/>
+        <Button x:Name="buttonStart" Content="Start" HorizontalAlignment="Stretch" Margin="10,62,10,0" VerticalAlignment="Top" Click="buttonStart_Click" />
+        <TextBlock x:Name="txtF" HorizontalAlignment="Left" Margin="10,142,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="71" Width="340"/>
+        <Button x:Name="button" Content="Dump stuff" HorizontalAlignment="Left" Margin="128,275,0,0" VerticalAlignment="Top" Click="button_Click"/>
+        
+    </Grid>
+</Window>
